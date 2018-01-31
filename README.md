@@ -1,0 +1,2 @@
+# bajay.html
+bajay js
